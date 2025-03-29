@@ -82,7 +82,7 @@ The frontend will run on http://localhost:5173
 | `DELETE` | `/api/posts/{id}` | N/A |
 
 
-
+![Screenshot (98)](https://github.com/user-attachments/assets/4eb9e96b-952c-4890-9d8c-48f76b4d363f)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
