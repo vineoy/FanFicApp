@@ -82,7 +82,21 @@ The frontend will run on http://localhost:5173
 | `DELETE` | `/api/posts/{id}` | N/A |
 
 
-![Screenshot (98)](https://github.com/user-attachments/assets/4eb9e96b-952c-4890-9d8c-48f76b4d363f)
+
+![Screenshot (98)](https://github.com/user-attachments/assets/595a8ae1-c04a-4322-a78d-d72e6839e98e)
+
+![Screenshot (96)](https://github.com/user-attachments/assets/ce160cf7-8bfb-4b1a-a29d-9ac9772dac6f)
+
+![Screenshot (97)](https://github.com/user-attachments/assets/2b731831-bdb8-4a4d-971a-5066d706dd7c)
+
+![Screenshot (99)](https://github.com/user-attachments/assets/3cf9a135-21bb-484c-8924-b44ccc358749)
+
+![Screenshot (100)](https://github.com/user-attachments/assets/5fd78ccd-eeff-4592-aabd-67296b9fa893)
+
+![Screenshot (101)](https://github.com/user-attachments/assets/3e349527-7906-4f61-b2d0-879190a236d1)
+
+
+
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
